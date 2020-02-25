@@ -18,7 +18,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author xp
+ * @author Fernando Piñeira
  */
 public class VentanaPokedex extends javax.swing.JFrame {
 
